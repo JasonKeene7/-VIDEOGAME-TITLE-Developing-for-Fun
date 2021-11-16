@@ -24,7 +24,7 @@ As of right now, I recently moved my developer tools into it's own class to clea
 5) Level scrolling
 6) Level select screen <br>
 <dl>
-  <dt>?) No plans as of yet <br><dt/>
-Uh) Art... other than essays, not my strongest skill
+  <dt>?) No plans as of yet<dt/>
+  <dt>Uh) Art... other than essays, not my strongest skill<dt/>
 <dl/>
 - Gonna try to keep it as simple as possible, thi8nking maybe flat-ish colors
