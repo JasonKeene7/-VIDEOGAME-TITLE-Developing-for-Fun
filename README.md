@@ -22,7 +22,7 @@ As of right now, I recently moved my developer tools into it's own class to clea
 - Probably goint to use equations for object collisions as well
 - Player must be able to ride over them if angle of impact isn't too perpendicular
 5) Level scrolling
-6) Level select screen
-?) No plans as of yet
+6) Level select screen <br>
+?) No plans as of yet <br>
 Uh) Art... other than essays, not my strongest skill
 - Gonna try to keep it as simple as possible, thi8nking maybe flat-ish colors
