@@ -27,4 +27,4 @@ As of right now, I recently moved my developer tools into it's own class to clea
   <dd>?) No plans as of yet<dd/>
   <dd>Uh) Art... other than essays, not my strongest skill<dd/>
 <dl/>
-- Gonna try to keep it as simple as possible, thi8nking maybe flat-ish colors
+<ul><li>Gonna try to keep it as simple as possible, thi8nking maybe flat-ish colors<li/><ul/>
