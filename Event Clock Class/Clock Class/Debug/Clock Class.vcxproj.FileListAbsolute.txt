@@ -1,0 +1,2 @@
+E:\Jason Keene\Text Editor Program\Visual Studio\SFML Playground\SFML Event\Debug\Event Clock Class.pdb
+E:\Jason Keene\Text Editor Program\Visual Studio\SFML Playground\SFML Event\Libraries\Event Clock Class\Clock Class\Debug\Event Clock Class.pdb

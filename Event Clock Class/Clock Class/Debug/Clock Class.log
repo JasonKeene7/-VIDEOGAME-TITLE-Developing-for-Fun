@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Clock Class.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Clock Class.vcxproj -> E:\Jason Keene\Coding\Text Editor Program\Visual Studio\SFML Playground\SFML Event\Debug\Event Clock Class.lib
