@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Clock Class.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Developer_Tools.cpp
+E:\Jason Keene\Coding\Text Editor Program\Visual Studio\SFML Playground\SFML Event\SFML Event\Player.h(27,20): warning C4305: 'initializing': truncation from 'double' to 'const float'
+E:\Jason Keene\Coding\Text Editor Program\Visual Studio\SFML Playground\SFML Event\SFML Event\Player.h(40,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Jason Keene\Coding\Text Editor Program\Visual Studio\SFML Playground\SFML Event\SFML Event\Player.h(40,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Jason Keene\Coding\Text Editor Program\Visual Studio\SFML Playground\SFML Event\SFML Event\Developer_Tools.cpp(83,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Jason Keene\Coding\Text Editor Program\Visual Studio\SFML Playground\SFML Event\SFML Event\Developer_Tools.cpp(83,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Smol Geme.cpp
+E:\Jason Keene\Coding\Text Editor Program\Visual Studio\SFML Playground\SFML Event\SFML Event\Player.h(27,20): warning C4305: 'initializing': truncation from 'double' to 'const float'
+E:\Jason Keene\Coding\Text Editor Program\Visual Studio\SFML Playground\SFML Event\SFML Event\Player.h(40,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Jason Keene\Coding\Text Editor Program\Visual Studio\SFML Playground\SFML Event\SFML Event\Player.h(40,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  SFML Event.vcxproj -> E:\Jason Keene\Coding\Text Editor Program\Visual Studio\SFML Playground\SFML Event\Debug\SFML Event.exe
